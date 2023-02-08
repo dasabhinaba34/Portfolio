@@ -8,7 +8,7 @@ function Navbar() {
 			</div>
 			<div className={styles.nav_right}>
 				<a href="#about" className={styles.nav_link}>
-					About Me
+					About
 				</a>
 				{/* <a href="#experience" className={styles.nav_link}>
 					<span>02.</span>Experience
